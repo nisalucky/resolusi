@@ -1,5 +1,5 @@
 Resolusi :
 - membuat forum
-- alur
 - inovasi 1
 - tambahan inovasi 2
+- tambah inovasi 3

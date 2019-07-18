@@ -2,3 +2,4 @@ Resolusi :
 - membuat forum
 - alur
 - inovasi 1
+- tambahan inovasi 2
